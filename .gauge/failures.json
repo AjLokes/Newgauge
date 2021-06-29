@@ -1,0 +1,9 @@
+{
+	"Args": [
+		"run",
+		"-p"
+	],
+	"FailedItems": [
+		"specs"
+	]
+}

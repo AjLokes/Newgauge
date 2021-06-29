@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Automate the WestJet":["specs/Awestjet.html"],"Check Balance in ParaBank":["specs/checkbalance.html"],"Getting Started with Gauge":["specs/example.html"],"Open Account in ParaBank":["specs/openaccount.html"],"Update Address in ParaBank":["specs/updateaddress.html"]}};
